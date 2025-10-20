@@ -3,6 +3,7 @@
 The **AI Voice Avatar Recruiter** is an advanced conversational AI system that simulates real human recruiters using **LLMs** and **voice synthesis technology**. It conducts realistic, interactive voice interviews with candidates, evaluates responses, and generates structured reports — revolutionizing how organizations handle recruitment automation.
 
 ---
+<img width="1810" height="985" alt="image" src="https://github.com/user-attachments/assets/f9697b83-2f76-4518-8fca-0720e93bb20b" />
 
 ## 🚀 Features
 
