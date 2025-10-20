@@ -5,6 +5,7 @@ The **AI Voice Avatar Recruiter** is an advanced conversational AI system that s
 ---
 <img width="1810" height="985" alt="image" src="https://github.com/user-attachments/assets/f9697b83-2f76-4518-8fca-0720e93bb20b" />
 <img width="1917" height="800" alt="image" src="https://github.com/user-attachments/assets/f2771c70-57a6-4132-aa50-0ae041aa6bcc" />
+<img width="1910" height="1073" alt="image" src="https://github.com/user-attachments/assets/694426b6-5c9f-4541-b25f-c14dd060d5c5" />
 
 ## 🚀 Features
 
